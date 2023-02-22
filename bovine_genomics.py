@@ -1,7 +1,17 @@
-"""link to problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=739"""
-"""tle for 4 of 10 cases either just python or something else
-thnmas berhe solution:https://usaco.guide/problem-solutions/
 """
+TODO: Create actual solution
+
+PYTON SOLUTION**
+
+USACO 2017 US Open Contest, Silver
+Problem 2. Bovine Genomics
+
+link to problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=739
+
+**TLE for 6/10 test cases
+"""
+
 
 
 n, m = map(int, input().split())

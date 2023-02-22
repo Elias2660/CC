@@ -1,5 +1,11 @@
 """
-link to code: http://www.usaco.org/index.php?page=viewproblem2&cpid=664
+PYTHON SOLUTION
+
+USACO 2016 December Contest, Bronze
+Problem 2. Block Game
+
+link to code: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=664
 """
 
 # import sys

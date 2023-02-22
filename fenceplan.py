@@ -1,6 +1,17 @@
+"""
+PYTHON SOLUTION
+
+USACO 2019 US Open Contest, Silver
+Problem 3. Fence Planning
+
+Link to problem:
+ http://www.usaco.org/index.php?page=viewproblem2&cpid=944
+"""
+
+
 import sys
-sys.stdin = open("fenceplan.in", "r")
-sys.stdout = open("fenceplan.out", "w")
+# sys.stdin = open("fenceplan.in", "r")
+# sys.stdout = open("fenceplan.out", "w")
 sys.setrecursionlimit(2000000)
 
 n, m = map(int, input().split())

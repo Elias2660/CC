@@ -1,3 +1,16 @@
+
+"""
+PYTHON SOLUTION**
+
+**Solution not tested
+
+USACO 2016 February Contest, Silver
+Problem 2. Load Balancing
+
+Link to Problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=619
+"""
+
 # import sys
 # sys.stdin = open("balancing.in", "r")
 # sys.stdout = open("balancing.out", "w")

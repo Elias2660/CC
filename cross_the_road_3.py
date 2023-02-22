@@ -1,3 +1,14 @@
+"""
+PYTHON SOLUTION
+
+USACO 2017 February Contest, Bronze
+Problem 3. Why Did the Cow Cross the Road III
+
+Link to Problem:
+http://www.usaco.org/index.php?cpid=713&page=viewproblem2
+"""
+
+
 # import sys
 # sys.stdin = open("cowqueue.in", "r")
 # sys.stdout = open("cowqueue.out", "w")

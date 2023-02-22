@@ -1,7 +1,17 @@
 # import sys
 # sys.stdin
 # sys.stdout
-"""link the the problem: http://usaco.org/index.php?page=viewproblem2&cpid=1203"""
+"""
+PYTHON SOLUTION**
+
+**Solution not tested
+
+USACO 2022 February Contest, Bronze
+Problem 1. Sleeping in Class
+
+link the the problem: 
+http://usaco.org/index.php?page=viewproblem2&cpid=1203
+"""
 
 num_cases = int(input())
 case_lens = []

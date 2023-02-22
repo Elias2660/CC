@@ -1,4 +1,12 @@
-"""http://www.usaco.org/index.php?page=viewproblem2&cpid=965"""
+"""
+PYTHON SOLUTION
+
+USACO 2019 December Contest, Bronze
+Problem 3. Livestock Lineup
+
+Link to Problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=965
+"""
 COWS = sorted([
 	'Bessie',
 	'Buttercup',

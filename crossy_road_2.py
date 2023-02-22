@@ -1,4 +1,12 @@
-"""link to problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=712"""
+"""
+PYTHON SOLUTION
+
+USACO 2017 February Contest, Bronze
+Problem 2. Why Did the Cow Cross the Road II
+
+link to problem:
+ http://www.usaco.org/index.php?page=viewproblem2&cpid=712
+"""
 
 # import sys
 # sys.stdin = open("circlecross.in", "r")

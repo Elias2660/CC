@@ -1,8 +1,14 @@
 """
-link for then problem found here: http://www.usaco.org/index.php?page=viewproblem2&cpid=568
+PYTHON SOLUTION**
+
+**Solution Source: https://usaco.guide/general/io
+
+USACO 2015 December Contest, Bronze
+Problem 2. Speeding Ticket
+link for then problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=568
 """
 
-# Source: https://usaco.guide/general/io
 
 # import sys
 # sys.stdin = open("speeding.in", "r")

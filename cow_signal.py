@@ -1,5 +1,11 @@
 """
-link for the problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=665
+PYTHON SOLUTION
+
+USACO 2016 December Contest, Bronze
+Problem 3. The Cow-Signal
+
+link for the problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=665
 """
 
 # import sys

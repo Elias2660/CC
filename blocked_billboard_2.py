@@ -1,7 +1,11 @@
 """
-Link to the problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=783 
+PYTHON SOLUTION
+
 USACO 2018 January Contest, Bronze
 Problem 1. Blocked Billboard II
+
+Link to the problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=783 
 """
 import sys
 sys.stdin = open("billboard.in", "r")

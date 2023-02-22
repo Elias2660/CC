@@ -1,4 +1,14 @@
-#link to problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=668 
+"""
+PYTHON SOLUTION**
+
+**Solution not tested
+
+USACO 2016 February Contest, Silver
+Problem 2. Load Balancing
+
+link to problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=668
+ """
 
 
 n = int(input())

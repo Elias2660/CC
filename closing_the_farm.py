@@ -1,3 +1,16 @@
+"""
+TODO: Finish Problem
+
+
+USACO 2016 US Open Contest, Silver
+Problem 3. Closing the Farm
+
+Link to Problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=644
+
+"""
+
+
 # #just usaco basics
 import sys
 sys.stdin = open("closing.in", "r")

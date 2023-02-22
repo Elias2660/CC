@@ -1,4 +1,12 @@
-"""link to problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=592"""
+"""
+PYTHON SOLUTION
+
+USACO 2016 January Contest, Bronze
+Problem 2. Angry Cows
+
+link to problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=592
+"""
 
 # import sys
 # sys.stdin = open("angry.in", "r")

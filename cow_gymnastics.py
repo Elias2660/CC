@@ -1,5 +1,17 @@
-# Source: https://usaco.guide/general/io
-"""source to question: http://www.usaco.org/index.php?page=viewproblem2&cpid=963"""
+
+"""
+PYTHON SOLUTION**
+
+**Solution source: https://usaco.guide/general/io
+
+Solution source: https://usaco.guide/general/io
+USACO 2019 December Contest, Bronze
+Problem 1. Cow Gymnastics
+
+source to question:
+ http://www.usaco.org/index.php?page=viewproblem2&cpid=963
+
+"""
 
 
 import sys

@@ -1,4 +1,13 @@
-"""solution for this problem"""
+"""
+PYTHON SOLUTION
+
+USACO 2018 December Contest, Bronze
+Problem 3. Back and Forth
+
+Link to Problem: 
+http://www.usaco.org/index.php?page=viewproblem2&cpid=857
+
+"""
 
 # import sys
 from typing import List

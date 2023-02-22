@@ -1,3 +1,12 @@
+"""
+PYTHON SOLUTION
+
+USACO 2017 US Open Contest, Bronze
+Problem 2. Bovine Genomics
+Link to Problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=736
+"""
+
+
 
 # import sys
 # sys.stdin = open("cownomics.in", "r")
