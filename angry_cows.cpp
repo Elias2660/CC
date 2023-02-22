@@ -19,13 +19,24 @@ using std::cin;
 using std::endl;
 using std::sort;
 using std::copy;
+using std::vector;
 
-
+int n;
+vector<int> blocs;
 
 int main()
 {
     freopen("angry.in", "w", stdin);
     freopen("angry.out", "w", stdout);
+
+    cin >> n;
+    blocs.resize(n);
+    for (int i = 0; i <= n; i++) {
+        cin >> blocs[i];
+    }
+
+
+    
 
 
  
