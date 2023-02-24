@@ -11,4 +11,6 @@ TODO
 - Started some C++ Solutions (need to work on that in the future)
 - Added Headings to all problems
 
-
+2/24
+- Finished 2 C++ Solutions
+- Edited Debugger
