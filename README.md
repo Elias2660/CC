@@ -26,3 +26,4 @@ TODO
 
 3/9
 - Added new solution
+- Added Barn_painting solution
