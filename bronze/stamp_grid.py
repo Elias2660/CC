@@ -3,6 +3,8 @@ PYTHON SOLUTION
 
 USACO 2023 February Contest, Bronze
 Problem 2. Stamp Grid
+Link to problem:
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1300
 """
 
 
@@ -13,7 +15,6 @@ def check(painting, stamp, N, K):
     for x in range(N - K + 1):
         for y in range(N - K + 1):
             painting_subsection = [r[x:x+K] for r in painting[y:y+K]]
-            canvas_subsection = [r[x:x+K] for r in canvas[y:y+K]]
             for _ in range(4):
                 if stampable(stamp, painting_subsection):
                     update(canvas, stamp, y, x, K)

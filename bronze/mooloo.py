@@ -1,3 +1,14 @@
+"""
+PYTHON SOLUTION
+
+
+USACO 2023 February Contest, Bronze
+Problem 3. Watching Mooloo
+Link to Problem:
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1301
+"""
+
+
 N, K = map(int, input().split())
 days = [int(number) for number in input().split()]
 

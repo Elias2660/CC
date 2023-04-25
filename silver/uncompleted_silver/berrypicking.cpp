@@ -1,5 +1,8 @@
 /*
 Solve Problem!!
+
+Link to problem:
+http://www.usaco.org/index.php?page=viewproblem2&cpid=990
 */
 
 #include <iostream>
@@ -16,7 +19,7 @@ int N, K;
 vector<int> trees;
 
 int main() {
-    freopen('1.in', "r", stdin);
+    // freopen('1.in', "r", stdin);
 
     cin >> N >> K;
     trees.resize(N);

@@ -1,11 +1,10 @@
-Here are some of my Solutions for USACO Questions
-
-TODO
-- Finish Solutions
-- Check Unverified Solutions
-- Create C++ Solutions for Every Problem
+Here are some of my Solutions to USACO Questions
 
 
+
+
+
+# **UPDATES**
 2/22
 - Created Readme File
 - Started some C++ Solutions (need to work on that in the future)
@@ -27,3 +26,9 @@ TODO
 3/9
 - Added new solution
 - Added Barn_painting solution
+
+4/24
+- Modified solutions
+- Divided Questions into **Correct** or **Incorrect** Sections
+
+
