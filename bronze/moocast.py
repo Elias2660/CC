@@ -1,15 +1,14 @@
 """
-PYTHON SOLUTION**
+PYTHON SOLUTION
 
-**Solution not tested
-
-USACO 2016 February Contest, Silver
-Problem 2. Load Balancing
-
+USACO 2016 December Contest, Silver
+Problem 3. Moocast
 link to problem: 
 http://www.usaco.org/index.php?page=viewproblem2&cpid=668
- """
-
+"""
+import sys
+sys.stdin = open("moocast.in", "r")
+sys.stdout = open("moocast.out", "w")
 
 n = int(input())
 

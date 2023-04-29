@@ -32,3 +32,5 @@ Here are some of my Solutions to USACO Questions
 - Divided Questions into **Correct** or **Incorrect** Sections
 
 
+4/29
+- Solved Problems from Uncompleted Bronze
