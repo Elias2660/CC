@@ -3,6 +3,8 @@ PYTHON SOLUTION
 
 USACO 2023 February Contest, Bronze
 Problem 1. Hungry Cow
+Link to Problem
+http://www.usaco.org/index.php?page=viewproblem2&cpid=1299 
 """
 
 

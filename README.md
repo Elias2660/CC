@@ -1,4 +1,4 @@
-Here are some of my Solutions to USACO Questions
+Here are some of my Solutions to Coding Questions
 
 
 
@@ -34,3 +34,9 @@ Here are some of my Solutions to USACO Questions
 
 4/29
 - Solved Problems from Uncompleted Bronze
+
+
+
+5/2
+- Added CSES folder under CC foler
+- Added a solution and uncompleted solution
