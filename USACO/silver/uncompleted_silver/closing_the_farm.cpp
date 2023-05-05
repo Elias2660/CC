@@ -1,9 +1,8 @@
 /*
-Recommended Compile Command: 
-g++ -std=c++17 starter.cpp 
+
+Link to problem:
+http://www.usaco.org/index.php?page=viewproblem2&cpid=644
 */
-
-
 #include <iostream>
 using std::cin;
 using std::cout;
