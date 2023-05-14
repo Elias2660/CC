@@ -40,3 +40,7 @@ Here are some of my Solutions to Coding Questions
 5/2
 - Added CSES folder under CC foler
 - Added a solution and uncompleted solution
+
+
+5/14
+- Added 3 new solutions

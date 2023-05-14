@@ -3,6 +3,7 @@
         "vector": "cpp",
         "variant": "cpp",
         "chrono": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "map": "cpp"
     }
 }
