@@ -4,6 +4,8 @@
         "variant": "cpp",
         "chrono": "cpp",
         "iostream": "cpp",
-        "map": "cpp"
-    }
+        "map": "cpp",
+        "ostream": "cpp"
+    },
+    "cmake.configureOnOpen": false
 }

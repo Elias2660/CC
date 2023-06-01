@@ -1,4 +1,7 @@
 /*
+C++ SOLUTION
+
+Ferris Wheel
 Recommended Compile Command: 
 g++ -std=c++17 ferris_wheel.cpp 
 */
