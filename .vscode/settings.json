@@ -5,7 +5,8 @@
         "chrono": "cpp",
         "iostream": "cpp",
         "map": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "string": "cpp"
     },
     "cmake.configureOnOpen": false
 }
