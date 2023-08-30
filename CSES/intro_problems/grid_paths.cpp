@@ -57,7 +57,7 @@ vector<char> find_possible_moves(vector<vector<int> > cur_maze, vector<int> cur_
 }
 
 
-void find_combinations(vector<vector<int> > cur_maze, vector<int> cur_pos, int move_num, String path) {
+void find_combinations(vector<vector<int> > cur_maze, vector<int> cur_pos, int move_num, string path) {
     //using a recursive function to perform brute force with optimizations
     char path_move = path[move_num];
     
