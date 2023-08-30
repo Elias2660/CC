@@ -19,7 +19,7 @@ int N, K;
 vector<int> trees;
 
 int main() {
-    // freopen('1.in', "r", stdin);
+    freopen("sample_input.in", "r", stdin);
 
     cin >> N >> K;
     trees.resize(N);
@@ -29,6 +29,8 @@ int main() {
 
     sort(trees.begin(), trees.end(), greater<int>());
 
-   
+   for (int tree:trees) {
+    cout << tree << endl;
+   }
     
 }

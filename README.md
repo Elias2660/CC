@@ -44,3 +44,6 @@ Here are some of my Solutions to Coding Questions
 
 5/14
 - Added 3 new solutions
+
+8/30
+- Added Additional Solutions + Gitignore
