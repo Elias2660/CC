@@ -2,7 +2,7 @@
 
 
 Recommended Compile Command: 
-g++ -std=c++17 starter.cpp 
+clang++ -std=c++11 -stdlib=libc++ starter.cpp
 */
 
 
