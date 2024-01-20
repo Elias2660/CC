@@ -1,49 +1,5 @@
-Here are some of my Solutions to Coding Questions
+# Here are some of my Solutions to Coding Questions
 
+There are multiple folders depending on the the coding service that I used, and you could see different languages depending on which I decided to do the problem.
 
-
-
-
-# **UPDATES**
-2/22
-- Created Readme File
-- Started some C++ Solutions (need to work on that in the future)
-- Added Headings to all problems
-
-2/24
-- Finished 2 C++ Solutions
-- Edited Debugger
-
- 2/28
- - New Solutions
-
-
-3/4
-- Added three new solutions
-- Divided the Bronze and Silver Questions into two
-
-
-3/9
-- Added new solution
-- Added Barn_painting solution
-
-4/24
-- Modified solutions
-- Divided Questions into **Correct** or **Incorrect** Sections
-
-
-4/29
-- Solved Problems from Uncompleted Bronze
-
-
-
-5/2
-- Added CSES folder under CC foler
-- Added a solution and uncompleted solution
-
-
-5/14
-- Added 3 new solutions
-
-8/30
-- Added Additional Solutions + Gitignore
+There will usually be links to the problem I did, but if there aren't you can use google to work on it.
